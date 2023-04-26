@@ -1,0 +1,19 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./pratica",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": false,
+    "problems.decorations.enabled": true,
+    "files.insertFinalNewline": true,
+    "python.linting.flake8CategorySeverity.E": "Information",
+    "python.linting.flake8CategorySeverity.F": "Information",
+    "python.linting.flake8CategorySeverity.W": "Information",
+}
